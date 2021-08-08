@@ -1,5 +1,5 @@
 # Swarm-vSLAM: A Swarm Multi-mapping Visual SLAM
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Flowchart](https://github.com/srl-ncra/swarm-vslam/blob/main/Flowchart.jpg?raw=true)
 ## Client Setup 
 We did the client setup on a NanoPi NEO Plus 2 which was operating Ubuntu Core 20.04 LTS. You can set up a NanoPi by following this tutorial: [NanoPi NEO Plus2](https://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Plus2). 
 After Ubuntu installation, assign an IP to the NanoPi and access it using ssh, then follow these commands:
