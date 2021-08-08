@@ -31,5 +31,5 @@ This code will start moving the SIMBot while avoiding obstacles and publishing c
 2. Run: `python3 obs_pi.py`
 
   
-## Server Setup 
+## 2. Server Setup (GUI for visualization) 
 To setup the server, we need to install [CCM-SLAM](https://github.com/VIS4ROB-lab/ccm_slam) on the PC
