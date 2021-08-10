@@ -36,3 +36,5 @@ To setup the server, we need to install [CCM-SLAM](https://github.com/VIS4ROB-la
 Make multiple copies of the Client.launch file according to the number of robots being used. 
 2. Run `roslaunch ccmslam Client.launch`
 3. Run `rviz` for visualization of the trajectories of multiple agents.
+The final setup should look like this:
+![SLAMsetup](https://github.com/srl-ncra/swarm-vslam/blob/main/SLAM_setup.jpg?raw=true)
