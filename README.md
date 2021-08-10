@@ -32,4 +32,7 @@ This code will start moving the SIMBot while avoiding obstacles and publishing c
 
   
 ## 2. Server Setup (GUI for visualization) 
-To setup the server, we need to install [CCM-SLAM](https://github.com/VIS4ROB-lab/ccm_slam) on the PC
+To setup the server, we need to install [CCM-SLAM](https://github.com/VIS4ROB-lab/ccm_slam) on the PC. After installation:
+Make multiple copies of the Client.launch file according to the number of robots being used. 
+2. Run `roslaunch ccmslam Client.launch`
+3. Run `rviz` for visualization of the trajectories of multiple agents.
