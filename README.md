@@ -37,4 +37,4 @@ Make multiple copies of the Client.launch file according to the number of robots
 2. Run `roslaunch ccmslam Client.launch`
 3. Run `rviz` for visualization of the trajectories of multiple agents.
 The final setup should look like this:
-![SLAMsetup](https://github.com/srl-ncra/swarm-vslam/blob/main/SLAM_setup.jpg?raw=true)
+![SLAMsetup](https://github.com/srl-ncra/swarm-vslam/blob/main/SLAM_setup.png?raw=true)
